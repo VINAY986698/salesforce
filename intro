@@ -1,1 +1,7 @@
-abcd
+object:
+what is object -object represents tables,which can be used to store collection of records
+types of objects:standard,custom
+standard object:readymade,can modify,but cannnot del
+custom object:we can based on requirement
+
+
